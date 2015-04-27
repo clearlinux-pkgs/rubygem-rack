@@ -1,0 +1,1 @@
+pushd %{buildroot}%{gem_dir}/gems/rack-1.6.1 && bacon -Ilib --automatic --quiet && popd
