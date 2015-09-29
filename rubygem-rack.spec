@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rack
 Version  : 1.6.2
-Release  : 11
+Release  : 12
 URL      : https://rubygems.org/downloads/rack-1.6.2.gem
 Source0  : https://rubygems.org/downloads/rack-1.6.2.gem
 Summary  : No detailed summary available
